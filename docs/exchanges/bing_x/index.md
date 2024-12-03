@@ -23,25 +23,29 @@
 
 1. Go to [BingX Exchange](https://bingx.com/) and log in or create a new account.
 
-2. Complete your KYC if you haven't already and then open the API Key page by clicking over the profile icon in the top right corner and go to the API Management page at https://bingx.com/account/api/.
-   
-3. Click on the ***Create API*** button
+2. When creating your account you can use our Referral Code (`7VFN4OVG`) or Hummingbot's code (`hummingbot`) to enjoy 20% rebate. 
+
+    ![Referral Code](bingx-api5.png)
+
+3. Complete your KYC if you haven't already and then open the API Key page by clicking over the profile icon in the top right corner and go to the API Management page at https://bingx.com/account/api/.
+
+4. Click on the ***Create API*** button
 
     ![Create API](bingx-api1.png)
 
-4. Write a label for your API Keys and then select the permission options that you want (enabling the withdrawal permission requires linking IP addresses on the box below) and click ***Confirm***
+5. Write a label for your API Keys and then select the permission options that you want (enabling the withdrawal permission requires linking IP addresses on the box below) and click ***Confirm***
   
     ![API Permission](bingx-api2.png)
 
-5. Enter your corresponding verification codes.
+6. Enter your corresponding verification codes.
 
     ![Security Verification](bingx-api3.png)
 
-6. Copy your API keys and store them somewhere safe. 
+7. Copy your API keys and store them somewhere safe. 
     
     ![Get API Key](bingx-api4.png)
 
-7. Now, you have created API keys for your BingX Exchange!
+8. Now, you have created API keys for your BingX Exchange!
 
 ### Add Keys to Hummingbot
 
