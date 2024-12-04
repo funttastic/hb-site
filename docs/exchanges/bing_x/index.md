@@ -5,14 +5,14 @@
 
 | Component | Status | Connector Version | V2 Strategies | Notes | 
 | --------- | ------ | ----------------- |  ------------ | ----- |
-| [🔀 Spot Connector](#spot-connector) | ✅ | v2.1 | Yes | Supports `MARKET` order type
+| [🔀 Spot Connector](#spot-connector) | ✅ | v2.1 | Yes | Supports `MARKET` and `LIMIT` order types
 | [🕯 Spot Candles Feed](#spot-candles-feed) | Not built | 
 
 ## ℹ️ Exchange Info
 
 - **Website**: <https://bingx.com/>
 - **CoinGecko**: <https://www.coingecko.com/en/exchanges/bingx>
-- **API Docs**: <https://bingx-api.github.io/docs/swap/>
+- **API Docs**: <https://bingx-api.github.io/docs/#/en-us/common/introduce>
 - **Fees**: <https://bingx.com/support/costs/>
 - **Unsupported Countries**:
   - BingX does not accept certain customers. To maintain our strong reputation in the market and ensure a robust compliant marketplace, we have decided to not seek nor accept customers from certain jurisdictions, such as Canada, Mainland China, Hong Kong SAR, Macau SAR, Netherlands, Singapore, United States (including all US territories), United Kingdom, any country that is designated as a restricted country under BingX's AML/CTF policy and any other jurisdictions where the provision of the services is prohibited or will subject us to regulatory penalty ("Restricted Jurisdictions").
